@@ -65,7 +65,7 @@ The system utilizes sensors such as the **MPU6050 accelerometer** to detect shoc
 We welcome contributions to this project! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 # Contact
-For any questions or inquiries, please reach out to [Your Email] or open an issue on GitHub.
+For any questions or inquiries, please open an issue on GitHub.
 
 ---
 
